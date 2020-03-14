@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "тимп5", "тимп5\тимп5.csproj", "{D4A26444-91F2-44ED-A33E-393F2A15313E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "тимп5Test", "тимп5Test\тимп5Test.csproj", "{10641613-19B6-4289-9DD4-A2A48ADB70B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A26444-91F2-44ED-A33E-393F2A15313E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A26444-91F2-44ED-A33E-393F2A15313E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A26444-91F2-44ED-A33E-393F2A15313E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A26444-91F2-44ED-A33E-393F2A15313E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10641613-19B6-4289-9DD4-A2A48ADB70B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10641613-19B6-4289-9DD4-A2A48ADB70B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10641613-19B6-4289-9DD4-A2A48ADB70B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10641613-19B6-4289-9DD4-A2A48ADB70B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A968237-A337-4615-82AE-BC60256829FF}
+	EndGlobalSection
+EndGlobal

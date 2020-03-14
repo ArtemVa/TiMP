@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\тимп5\тимп5\bin\Debug\тимп5.exe.config
+C:\Users\1\source\repos\тимп5\тимп5\bin\Debug\тимп5.exe
+C:\Users\1\source\repos\тимп5\тимп5\bin\Debug\тимп5.pdb
+C:\Users\1\source\repos\тимп5\тимп5\obj\Debug\тимп5.csprojAssemblyReference.cache
+C:\Users\1\source\repos\тимп5\тимп5\obj\Debug\тимп5.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\тимп5\тимп5\obj\Debug\тимп5.exe
+C:\Users\1\source\repos\тимп5\тимп5\obj\Debug\тимп5.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5\bin\Debug\тимп5.exe.config
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5\bin\Debug\тимп5.exe
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5\bin\Debug\тимп5.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5\obj\Debug\тимп5.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5\obj\Debug\тимп5.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5\obj\Debug\тимп5.exe
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5\obj\Debug\тимп5.pdb

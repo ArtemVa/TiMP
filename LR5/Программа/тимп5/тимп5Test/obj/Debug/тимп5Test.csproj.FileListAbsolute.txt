@@ -1,0 +1,24 @@
+C:\Users\1\source\repos\тимп5\тимп5Test\bin\Debug\тимп5Test.dll
+C:\Users\1\source\repos\тимп5\тимп5Test\bin\Debug\тимп5Test.pdb
+C:\Users\1\source\repos\тимп5\тимп5Test\bin\Debug\nunit.framework.dll
+C:\Users\1\source\repos\тимп5\тимп5Test\bin\Debug\тимп5.exe
+C:\Users\1\source\repos\тимп5\тимп5Test\bin\Debug\тимп5.pdb
+C:\Users\1\source\repos\тимп5\тимп5Test\bin\Debug\тимп5.exe.config
+C:\Users\1\source\repos\тимп5\тимп5Test\bin\Debug\nunit.framework.xml
+C:\Users\1\source\repos\тимп5\тимп5Test\obj\Debug\тимп5Test.csprojAssemblyReference.cache
+C:\Users\1\source\repos\тимп5\тимп5Test\obj\Debug\тимп5Test.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\тимп5\тимп5Test\obj\Debug\тимп5Test.csproj.CopyComplete
+C:\Users\1\source\repos\тимп5\тимп5Test\obj\Debug\тимп5Test.dll
+C:\Users\1\source\repos\тимп5\тимп5Test\obj\Debug\тимп5Test.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\obj\Debug\тимп5Test.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\obj\Debug\тимп5Test.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\obj\Debug\тимп5Test.dll
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\obj\Debug\тимп5Test.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\bin\Debug\тимп5Test.dll
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\bin\Debug\тимп5Test.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\bin\Debug\nunit.framework.dll
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\bin\Debug\тимп5.exe
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\bin\Debug\тимп5.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\bin\Debug\тимп5.exe.config
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\bin\Debug\nunit.framework.xml
+C:\Users\1\Desktop\Отчёты ТиМП\LR5\Программа\тимп5\тимп5Test\obj\Debug\тимп5Test.csproj.CopyComplete

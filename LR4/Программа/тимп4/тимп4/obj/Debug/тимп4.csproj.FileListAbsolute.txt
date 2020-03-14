@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\тимп4\тимп4\obj\Debug\тимп4.csprojAssemblyReference.cache
+C:\Users\1\source\repos\тимп4\тимп4\obj\Debug\тимп4.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\тимп4\тимп4\bin\Debug\тимп4.exe.config
+C:\Users\1\source\repos\тимп4\тимп4\bin\Debug\тимп4.exe
+C:\Users\1\source\repos\тимп4\тимп4\bin\Debug\тимп4.pdb
+C:\Users\1\source\repos\тимп4\тимп4\obj\Debug\тимп4.exe
+C:\Users\1\source\repos\тимп4\тимп4\obj\Debug\тимп4.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4\bin\Debug\тимп4.exe.config
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4\bin\Debug\тимп4.exe
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4\bin\Debug\тимп4.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4\obj\Debug\тимп4.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4\obj\Debug\тимп4.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4\obj\Debug\тимп4.exe
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4\obj\Debug\тимп4.pdb

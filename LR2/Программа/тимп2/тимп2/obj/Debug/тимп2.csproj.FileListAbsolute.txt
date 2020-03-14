@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\тимп2\тимп2\bin\Debug\тимп2.exe.config
+C:\Users\1\source\repos\тимп2\тимп2\bin\Debug\тимп2.exe
+C:\Users\1\source\repos\тимп2\тимп2\bin\Debug\тимп2.pdb
+C:\Users\1\source\repos\тимп2\тимп2\obj\Debug\тимп2.csprojAssemblyReference.cache
+C:\Users\1\source\repos\тимп2\тимп2\obj\Debug\тимп2.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\тимп2\тимп2\obj\Debug\тимп2.exe
+C:\Users\1\source\repos\тимп2\тимп2\obj\Debug\тимп2.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR2\Программа\тимп2\тимп2\bin\Debug\тимп2.exe.config
+C:\Users\1\Desktop\Отчёты ТиМП\LR2\Программа\тимп2\тимп2\bin\Debug\тимп2.exe
+C:\Users\1\Desktop\Отчёты ТиМП\LR2\Программа\тимп2\тимп2\bin\Debug\тимп2.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR2\Программа\тимп2\тимп2\obj\Debug\тимп2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR2\Программа\тимп2\тимп2\obj\Debug\тимп2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR2\Программа\тимп2\тимп2\obj\Debug\тимп2.exe
+C:\Users\1\Desktop\Отчёты ТиМП\LR2\Программа\тимп2\тимп2\obj\Debug\тимп2.pdb

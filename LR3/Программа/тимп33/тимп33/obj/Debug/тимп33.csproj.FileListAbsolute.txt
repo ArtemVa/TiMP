@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\тимп33\тимп33\bin\Debug\тимп33.exe.config
+C:\Users\1\source\repos\тимп33\тимп33\bin\Debug\тимп33.exe
+C:\Users\1\source\repos\тимп33\тимп33\bin\Debug\тимп33.pdb
+C:\Users\1\source\repos\тимп33\тимп33\obj\Debug\тимп33.csprojAssemblyReference.cache
+C:\Users\1\source\repos\тимп33\тимп33\obj\Debug\тимп33.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\тимп33\тимп33\obj\Debug\тимп33.exe
+C:\Users\1\source\repos\тимп33\тимп33\obj\Debug\тимп33.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33\bin\Debug\тимп33.exe.config
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33\bin\Debug\тимп33.exe
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33\bin\Debug\тимп33.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33\obj\Debug\тимп33.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33\obj\Debug\тимп33.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33\obj\Debug\тимп33.exe
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33\obj\Debug\тимп33.pdb

@@ -1,0 +1,23 @@
+C:\Users\1\source\repos\тимп33\тимп33Test\bin\Debug\тимп33Test.dll
+C:\Users\1\source\repos\тимп33\тимп33Test\bin\Debug\тимп33Test.pdb
+C:\Users\1\source\repos\тимп33\тимп33Test\bin\Debug\nunit.framework.dll
+C:\Users\1\source\repos\тимп33\тимп33Test\bin\Debug\тимп33.exe
+C:\Users\1\source\repos\тимп33\тимп33Test\bin\Debug\тимп33.pdb
+C:\Users\1\source\repos\тимп33\тимп33Test\bin\Debug\тимп33.exe.config
+C:\Users\1\source\repos\тимп33\тимп33Test\bin\Debug\nunit.framework.xml
+C:\Users\1\source\repos\тимп33\тимп33Test\obj\Debug\тимп33Test.csprojAssemblyReference.cache
+C:\Users\1\source\repos\тимп33\тимп33Test\obj\Debug\тимп33Test.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\тимп33\тимп33Test\obj\Debug\тимп33Test.csproj.CopyComplete
+C:\Users\1\source\repos\тимп33\тимп33Test\obj\Debug\тимп33Test.dll
+C:\Users\1\source\repos\тимп33\тимп33Test\obj\Debug\тимп33Test.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33Test\bin\Debug\тимп33Test.dll
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33Test\bin\Debug\тимп33Test.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33Test\bin\Debug\тимп33.exe
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33Test\bin\Debug\тимп33.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33Test\bin\Debug\тимп33.exe.config
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33Test\bin\Debug\nunit.framework.xml
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33Test\obj\Debug\тимп33Test.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33Test\obj\Debug\тимп33Test.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33Test\obj\Debug\тимп33Test.csproj.CopyComplete
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33Test\obj\Debug\тимп33Test.dll
+C:\Users\1\Desktop\Отчёты ТиМП\LR3\Программа\тимп33\тимп33Test\obj\Debug\тимп33Test.pdb

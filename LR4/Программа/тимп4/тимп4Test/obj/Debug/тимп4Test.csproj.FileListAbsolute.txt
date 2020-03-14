@@ -1,0 +1,23 @@
+C:\Users\1\source\repos\тимп4\тимп4Test\bin\Debug\тимп4Test.dll
+C:\Users\1\source\repos\тимп4\тимп4Test\bin\Debug\тимп4Test.pdb
+C:\Users\1\source\repos\тимп4\тимп4Test\bin\Debug\nunit.framework.dll
+C:\Users\1\source\repos\тимп4\тимп4Test\bin\Debug\тимп4.exe
+C:\Users\1\source\repos\тимп4\тимп4Test\bin\Debug\тимп4.pdb
+C:\Users\1\source\repos\тимп4\тимп4Test\bin\Debug\тимп4.exe.config
+C:\Users\1\source\repos\тимп4\тимп4Test\bin\Debug\nunit.framework.xml
+C:\Users\1\source\repos\тимп4\тимп4Test\obj\Debug\тимп4Test.csprojAssemblyReference.cache
+C:\Users\1\source\repos\тимп4\тимп4Test\obj\Debug\тимп4Test.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\тимп4\тимп4Test\obj\Debug\тимп4Test.csproj.CopyComplete
+C:\Users\1\source\repos\тимп4\тимп4Test\obj\Debug\тимп4Test.dll
+C:\Users\1\source\repos\тимп4\тимп4Test\obj\Debug\тимп4Test.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4Test\bin\Debug\тимп4Test.dll
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4Test\bin\Debug\тимп4Test.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4Test\bin\Debug\тимп4.exe
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4Test\bin\Debug\тимп4.pdb
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4Test\bin\Debug\тимп4.exe.config
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4Test\bin\Debug\nunit.framework.xml
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4Test\obj\Debug\тимп4Test.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4Test\obj\Debug\тимп4Test.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4Test\obj\Debug\тимп4Test.csproj.CopyComplete
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4Test\obj\Debug\тимп4Test.dll
+C:\Users\1\Desktop\Отчёты ТиМП\LR4\Программа\тимп4\тимп4Test\obj\Debug\тимп4Test.pdb

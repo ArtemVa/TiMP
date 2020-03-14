@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "тимп2", "тимп2\тимп2.csproj", "{8AFBDFB7-66B6-4E55-B616-12397CE3675E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "тимп2Test", "тимп2Test\тимп2Test.csproj", "{08E22149-5153-48A0-AEE8-081A4A693ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AFBDFB7-66B6-4E55-B616-12397CE3675E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFBDFB7-66B6-4E55-B616-12397CE3675E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFBDFB7-66B6-4E55-B616-12397CE3675E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFBDFB7-66B6-4E55-B616-12397CE3675E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E22149-5153-48A0-AEE8-081A4A693ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E22149-5153-48A0-AEE8-081A4A693ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E22149-5153-48A0-AEE8-081A4A693ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E22149-5153-48A0-AEE8-081A4A693ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA0555FF-3CA1-43EC-87D6-C5CA314E6093}
+	EndGlobalSection
+EndGlobal
